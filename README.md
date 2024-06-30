@@ -70,7 +70,9 @@ The dataset comprises transactions recorded on January 1st to June 2023, spannin
 4.	Revenue Insights: Calculating revenue from unit prices and quantities provides insights into the financial performance of different product categories and store locations.
 
 ## Findings
-
+1. According to the data given, we have a total transaction of  about 149456 and all transations are from January to June 2023. there coffee shops are located in three rejions which are Lower manhattan, Heells Kitchen and Astoria.
+2. total revenue generated from the Pivot chart table is about $6,234,384.84 from the six months. it was alos recored that there are some months that have higher sales and some months that have lower sales. eg the montg of may rrecoreded the highest sales in a month while the month of june was recorded a the lowest sales month. also transation are made by days of the week for example we have sunday and total transations made on sundaus from Ist January to 3oth June is over 33,494 transaction and so on.
+3. transations by hour of day are also recorded. sales starts fro exactly six o'clock from Ist January till 30ths June and transactions have gone through all this hours. 
 
 ## Recommendations
 
