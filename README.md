@@ -42,6 +42,7 @@ The objective of analyzing this dataset is to derive actionable insights and str
 • Applying of statistical methods to identify patterns and trends in transaction data.
 3.	Visualization and Reporting
 •	Visualizations such as pivot table and pivot charts to present data insights effectively to stakeholders.
+
  ![](goodys_work.PNG)
 ![](pivot_table.PNG) 
 5.	Business Insights and Decision-Making
